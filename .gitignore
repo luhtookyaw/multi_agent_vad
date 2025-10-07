@@ -1,0 +1,15 @@
+Normal_Training/
+Online_Training/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.DS_Store
+env/
+*.npz
+*.h5
+*.ckpt
+*.pth
+*.log
